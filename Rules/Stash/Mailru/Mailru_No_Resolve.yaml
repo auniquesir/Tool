@@ -1,0 +1,8 @@
+# NAME: Mailru
+# UPDATED: 2024-04-29 13:35:27
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,imgsmail.ru
+  - DOMAIN-SUFFIX,mail.ru
+  - DOMAIN-SUFFIX,mycdn.me

@@ -1,0 +1,12 @@
+# NAME: Pixiv
+# UPDATED: 2024-04-29 13:35:28
+# HOST-SUFFIX: 8
+# TOTAL: 8
+HOST-SUFFIX,booth.pm,Pixiv
+HOST-SUFFIX,fanbox.cc,Pixiv
+HOST-SUFFIX,pixiv.cat,Pixiv
+HOST-SUFFIX,pixiv.co.jp,Pixiv
+HOST-SUFFIX,pixiv.me,Pixiv
+HOST-SUFFIX,pixiv.net,Pixiv
+HOST-SUFFIX,pixiv.org,Pixiv
+HOST-SUFFIX,pximg.net,Pixiv

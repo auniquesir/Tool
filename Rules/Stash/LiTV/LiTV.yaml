@@ -1,0 +1,8 @@
+# NAME: LiTV
+# UPDATED: 2024-04-29 13:34:32
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 1
+# TOTAL: 2
+payload:
+  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+  - DOMAIN-SUFFIX,litv.tv

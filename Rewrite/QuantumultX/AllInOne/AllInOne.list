@@ -1,0 +1,14 @@
+# NAME: AllInOne
+# UPDATED: 2024-06-22 02:14:51
+# HOST: 5
+# HTTP-REQUEST-SCRIPT: 3
+# HTTP-RESPONSE-SCRIPT: 33
+# REDIRECT: 62
+# REJECT: 725
+# MITM: 695
+# TOTAL: 1523
+HOST,appcloud.zhihu.com,AdvertisingScript
+HOST,appcloud2.in.zhihu.com,AdvertisingScript
+HOST,crash2.zhihu.com,AdvertisingScript
+HOST,mqtt.zhihu.com,AdvertisingScript
+HOST,sugar.zhihu.com,AdvertisingScript

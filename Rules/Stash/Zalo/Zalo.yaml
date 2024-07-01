@@ -1,0 +1,7 @@
+# NAME: Zalo
+# UPDATED: 2024-04-29 13:37:09
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,zalo.me
+  - DOMAIN-SUFFIX,zaloapp.com

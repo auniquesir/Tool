@@ -1,0 +1,11 @@
+# NAME: TVer
+# UPDATED: 2024-04-29 13:35:32
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+payload:
+  - DOMAIN-SUFFIX,dogatch.jp
+  - DOMAIN-SUFFIX,edge.api.brightcove.com
+  - DOMAIN-SUFFIX,gorin.jp
+  - DOMAIN-SUFFIX,screens-lab.jp
+  - DOMAIN-SUFFIX,tver.co.jp
+  - DOMAIN-SUFFIX,tver.jp

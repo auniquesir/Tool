@@ -1,0 +1,8 @@
+# NAME: FindMy
+# UPDATED: 2024-04-29 13:32:57
+# DOMAIN: 3
+# TOTAL: 3
+payload:
+  - DOMAIN,fmfmobile.icloud.com
+  - DOMAIN,fmipmobile.icloud.com
+  - DOMAIN,statici.icloud.com

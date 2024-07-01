@@ -1,0 +1,7 @@
+# NAME: AppStore
+# UPDATED: 2024-04-29 13:32:56
+# DOMAIN: 2
+# TOTAL: 2
+payload:
+  - DOMAIN,apps.apple.com
+  - DOMAIN,itunes.apple.com

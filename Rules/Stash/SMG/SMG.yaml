@@ -1,0 +1,9 @@
+# NAME: SMG
+# UPDATED: 2024-04-29 13:37:08
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,cptn.tv
+  - DOMAIN-SUFFIX,sava.sh.cn
+  - DOMAIN-SUFFIX,smg.cn
+  - DOMAIN-SUFFIX,smg.sh.cn

@@ -1,0 +1,10 @@
+# NAME: Zendesk
+# UPDATED: 2024-04-29 13:35:30
+# HOST-SUFFIX: 6
+# TOTAL: 6
+HOST-SUFFIX,outbound.io,Zendesk
+HOST-SUFFIX,zdassets.com,Zendesk
+HOST-SUFFIX,zdusercontent.com,Zendesk
+HOST-SUFFIX,zendesk.com,Zendesk
+HOST-SUFFIX,zndsk.com,Zendesk
+HOST-SUFFIX,zopim.com,Zendesk
